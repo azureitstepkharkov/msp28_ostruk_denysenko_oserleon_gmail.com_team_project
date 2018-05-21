@@ -1,0 +1,5 @@
+http://gyanendushekhar.com/2016/06/15/parse-json-data-in-unity3d/
+
+https://unity3d.com/ru/learn/tutorials/topics/scripting/loading-game-data-json
+
+https://docs.unity3d.com/Manual/JSONSerialization.html
